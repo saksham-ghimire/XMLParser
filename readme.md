@@ -32,7 +32,7 @@ uvicorn main:app --reload
 
 *Why FastAPI?*
 
-*Fast API easy and convient to apply even for smaller application and provide openAPI docs by default for interaction with endpoints.*
+*FastAPI is simple and convenient to use, even for smaller applications. It provides OpenAPI documentation by default for interacting with endpoints, making it easy to test and debug your API.*
 
 ## Optimization approach
 
