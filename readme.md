@@ -32,7 +32,7 @@ uvicorn main:app --reload
 
 *Why FastAPI?*
 
-*Fuck you that's why*
+*Fast API easy and convient to apply even for smaller application and provide openAPI docs by default for interaction with endpoints.*
 
 ## Optimization approach
 
