@@ -78,5 +78,11 @@ Compress the file while writing it in order to reduce the amount of network reso
 ## Working
 
 **General Test**
+Please click GIF to open video
+
+[![General Working](https://github.com/saksham-ghimire/XMLParser/blob/master/screenshots/work_test.gif)](https://user-images.githubusercontent.com/66101153/211140763-f3514156-0514-4a3d-a708-096a4e0dee20.mp4)
 
 **Consistency Test**
+Please click GIF to open video
+
+[![Consistency Test](https://github.com/saksham-ghimire/XMLParser/blob/master/screenshots/consistent_test.gif)](https://user-images.githubusercontent.com/66101153/211140794-33e98fe1-2f35-4fa4-b861-c89b108138ae.mp4)
